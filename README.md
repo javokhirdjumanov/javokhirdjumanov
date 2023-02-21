@@ -30,4 +30,4 @@
     <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javokhirdjumanov&theme=highcontrast&hide_border=true">
 </div>
 
-[![Javokhir’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javokhirdjumanov&theme=react-dark)](https://github.com/javokhirdjumanov/github-readme-activity-graph)
+<!-- [![Javokhir’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javokhirdjumanov&theme=react-dark)](https://github.com/javokhirdjumanov/github-readme-activity-graph) -->
