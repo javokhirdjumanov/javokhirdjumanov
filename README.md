@@ -3,7 +3,9 @@
 </h1> -->
 
 ## Hi there, I'm Javokhir 👋
-> I'm an energetic and highly motivated .NET developer  interested in algorithms and high desire to learn new technologies.
+> I'm an energetic and highly motivated .NET developer interested in algorithms and high desire to learn
+> new technologies. I have contributed to various projects, and it helped me to work with the team.
+> While I was working on these projects, I gave proper solutions to various problems.
 
 <p align="middle">
 <a href="https://www.linkedin.com/in/javokhir-djumanov-763a25253/"><img alt="LinkedIn" width="10%" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
