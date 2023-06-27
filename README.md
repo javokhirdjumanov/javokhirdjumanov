@@ -15,14 +15,14 @@
 
  <p align="center">
   
- <h2> 👨🏻‍💻 These days me </h2>
+<!-- <h2> 👨🏻‍💻 These days me </h2>
 
 - 😇 &nbsp;Exploring new technologies and developing software solutions
 - 🎓 &nbsp;National University of Uzbekistan named after Mirzo Ulugbek.
 - 💼 &nbsp; I'm currently learning .NET MAUI, DevOps and many other technological.
 - 📝 &nbsp; I share my ideas at [Telegram Channel](https://t.me/dotnetopensource)
 - 📫 &nbsp; Reach me at: javokhirdjumanoov@gmail.com.com
-<h3> </h3>
+<h3> </h3> -->
 
 <h2>📊 Github Stats and 🔥 Streak Stats</h2>
 
